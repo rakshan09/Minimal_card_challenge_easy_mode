@@ -1,3 +1,4 @@
 # myprojects_2024
 
-this is my repo
+Created this app to create/edit/delete notes 
+Used Simple HTML/CSS and Javascript to build this
