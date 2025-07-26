@@ -1,4 +1,3 @@
-# myprojects_2024
+# Frontend Mentor challenges
 
-Created this project to understand and implement create/edit/delete logic.
-Used Simple HTML/CSS and Javascript to build this.
+Tried to start frontend mentor challenges from https://www.frontendmentor.io/ to polish my skills and to try different methods for the solutions.
